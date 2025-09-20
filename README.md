@@ -9,7 +9,7 @@
 - clean code
 - responsive
 - Easy maintenance, if necessary
--The arrows must stop working and have a lower opacity when you reach the last image.
+- The arrows must stop working and have a lower opacity when you reach the last image.
 
 ## Languages used:
 
